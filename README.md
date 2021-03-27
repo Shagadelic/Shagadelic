@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shagadelic
-  Im currently trying to increase the number of my projects, 
+  Im currently trying to increase the number of my projects,  
   once I have a reasonable amount,  
   I will move onto improving the existing ones more/build on them.
 
